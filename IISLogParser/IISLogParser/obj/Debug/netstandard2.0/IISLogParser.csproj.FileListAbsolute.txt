@@ -1,0 +1,10 @@
+D:\Github\IISLogParser\IISLogParser\bin\Debug\netstandard2.0\IISLogParser.deps.json
+D:\Github\IISLogParser\IISLogParser\bin\Debug\netstandard2.0\IISLogParser.dll
+D:\Github\IISLogParser\IISLogParser\bin\Debug\netstandard2.0\IISLogParser.pdb
+D:\Github\IISLogParser\IISLogParser\obj\Debug\netstandard2.0\IISLogParser.csproj.AssemblyReference.cache
+D:\Github\IISLogParser\IISLogParser\obj\Debug\netstandard2.0\IISLogParser.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\IISLogParser\IISLogParser\obj\Debug\netstandard2.0\IISLogParser.AssemblyInfoInputs.cache
+D:\Github\IISLogParser\IISLogParser\obj\Debug\netstandard2.0\IISLogParser.AssemblyInfo.cs
+D:\Github\IISLogParser\IISLogParser\obj\Debug\netstandard2.0\IISLogParser.csproj.CoreCompileInputs.cache
+D:\Github\IISLogParser\IISLogParser\obj\Debug\netstandard2.0\IISLogParser.dll
+D:\Github\IISLogParser\IISLogParser\obj\Debug\netstandard2.0\IISLogParser.pdb

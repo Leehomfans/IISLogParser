@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "KWsI7dhY8e1KUke/eylJYgc5LsZbpyLpq7H9Mai1yhrgYegqJhY4fe/8FcD2FxX9P8xBEugLG13KfLxunkuDtA==",
+  "success": true,
+  "projectFilePath": "D:\\Github\\IISLogParser\\IISLogParser\\IISLogParser.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\17206\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\17206\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
